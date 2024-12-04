@@ -1,0 +1,7 @@
+C:\Projects\mazer.service\Mazer.Service\bin\Debug\Mazer.Service.exe.config
+C:\Projects\mazer.service\Mazer.Service\bin\Debug\Mazer.Service.exe
+C:\Projects\mazer.service\Mazer.Service\bin\Debug\Mazer.Service.pdb
+C:\Projects\mazer.service\Mazer.Service\obj\Debug\Mazer.Service.csproj.AssemblyReference.cache
+C:\Projects\mazer.service\Mazer.Service\obj\Debug\Mazer.Service.csproj.CoreCompileInputs.cache
+C:\Projects\mazer.service\Mazer.Service\obj\Debug\Mazer.Service.exe
+C:\Projects\mazer.service\Mazer.Service\obj\Debug\Mazer.Service.pdb
